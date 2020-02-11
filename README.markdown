@@ -2,6 +2,8 @@ This is a simple demonstration application used in the [Jenkins: The Definitive 
 
 ## Building the project
 ## this is ranjith bro
+
+# pavani will meet 2morrow 
 The project is a simple multi-module Maven project. To build the whole project, just run `mvn install` from the root directory.
 
 ## Running the game
